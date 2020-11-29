@@ -152,7 +152,8 @@ intro.
 destruct H0.
 destruct H0.
 apply H in H0.
-contradiction.
+apply H0.
+trivial.
 Qed.
 
 (* Ejercicio 5h 
