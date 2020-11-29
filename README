@@ -1,0 +1,5 @@
+Nombre: Víctor Zamora Gutiérrez
+No. Cuenta: 311529058
+La biblioteca está constituida por 3 archivos principales: Props_LM, Props_LI y Props_LC, correspondientes a teoremas de lógica minimal, intuicionista y clásica respectivamente.
+En cada uno de los archivos Props se prueban los teoremas con el sistema correspondiente. Además hay un archivo Defs_LC en el que se define el operador de cotenabilidad.
+Por último, en el archivo Examples, tenemos unas propiedades que no dependen de ningún sistema en particular. Para cada una de estas, se tiene un comentario en el que se explica qué sistema lógico se utilizó para la demostración.
